@@ -1,0 +1,93 @@
+[
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "Cime dentaire",
+        "Adresse": "63430 Pont du Château",
+        "Zone": "01 - 03 - 15 - 42 - 43 - 63",
+        "Responsable": "Ludovic Larivière",
+        "mail": "ludovic.lariviere@cimedentaire.fr",
+        "Téléphone": "04 73 91 26 72",
+        "Journée découverte": "Programmée",
+        "Date": "11-Apr-24",
+        "lieu": "Pont du Château",
+        "Dentiste référent?": "David Potel"
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "Denta3D",
+        "Adresse": "31100 Toulouse",
+        "Zone": "09 - 11 - 31 - 81 - 82",
+        "Responsable": "Eric Savignac",
+        "mail": "eric.denta3d@gmail.com",
+        "Téléphone": "06 42 54 74 72",
+        "Journée découverte": "Programmée",
+        "Date": "25-Apr-24",
+        "lieu": "Toulouse",
+        "Dentiste référent?": "David Potel"
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "Pyrénées dentaire",
+        "Adresse": "64320 Idron",
+        "Zone": "32 - 40 - 64 - 65",
+        "Responsable": "Julien Delmond",
+        "mail": "julien.delmond@icloud.com",
+        "Téléphone": "06 77 11 91 21",
+        "Journée découverte": "Programmée",
+        "Date": "6-Jun-24",
+        "lieu": "Casino Cap Breton",
+        "Dentiste référent?": "Rodolphe Zunzarren"
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "Macary dentaire",
+        "Adresse": "66000 Perpignan",
+        "Zone": "09 - 11p - 34 - 66",
+        "Responsable": "Amandine Thépegnier",
+        "mail": "commercial@macarydentaire.com",
+        "Téléphone": "07 85 17 65 51",
+        "Journée découverte": "Programmée",
+        "Date": "21-Mar-24",
+        "lieu": "Perpignan",
+        "Dentiste référent?": "David Potel"
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "LMD",
+        "Adresse": "84140 AVIGNON",
+        "Zone": "13 - 30 - 34P - 84",
+        "Responsable": "Vanessa Vareille",
+        "mail": "vanessa.vareille@lmdfrance.fr",
+        "Téléphone": "06 18 91 08 20",
+        "Journée découverte": "En attente",
+        "Date": "27-Jun-24",
+        "lieu": "Avignon",
+        "Dentiste référent?": "David Potel"
+    },
+    {
+        "Gestionnaire": "IO ",
+        "Distributeur": "LS CONCEPT",
+        "Adresse": "97170 Petit Bourg ",
+        "Zone": "Guadeloupe - Guyane",
+        "Responsable": "Sophie Langlet",
+        "mail": "sophielanglet@lsconcept.fr",
+        "Téléphone": "06 16 82 73 39",
+        "Journée découverte": "fait en 2023",
+        "Date": "",
+        "lieu": "",
+        "Dentiste référent?": ""
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "SDM Online",
+        "Adresse": "69140 Rillieux la Pape",
+        "Zone": "01 - 07 - 26 - 38 - 69 - 71",
+        "Responsable": "Stella Candelier",
+        "mail": "s.candelier@dentallproject.com",
+        "Téléphone": "06 08 40 67 55",
+        "Journée découverte": "Programmée",
+        "Date": "12-Sep-24",
+        "lieu": "Rillieux la Pape",
+        "Dentiste référent?": "David Potel"
+    }
+]

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Departments of France</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+</head>
+<body>
+    <h1>Departments of France</h1>
+    <div id="mapid"></div>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search for departments..." onkeyup="searchDepartments()">
+    </div>
+    <div class="filter-container">
+        <button id="filterHasDistributors" onclick="filterDepartments('has')">Has Distributor</button>
+        <button id="filterNoDistributors" onclick="filterDepartments('none')">No Distributor</button>
+    </div>
+    
+    <div id="departments"></div>
+
+    <!-- Modal Structure -->
+    <div id="distributorModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="distributorInfo"></div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="regions.geojson"></script>
+    <script src="script.js"></script>
+</body>
+</html>
