@@ -89,5 +89,31 @@
         "Date": "12-Sep-24",
         "lieu": "Rillieux la Pape",
         "Dentiste référent?": "David Potel"
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "DSR SARL",
+        "Adresse": "12510 Olemps",
+        "Zone": "12 - 46 - 48 ",
+        "Responsable": "Jéremie Canivenq",
+        "mail": "contact@dsrouergue.fr",
+        "Téléphone": "06 07 30 06 38",
+        "Journée découverte": "En attente !",
+        "Date": "",
+        "lieu": "",
+        "Dentiste référent?": ""
+    },
+    {
+        "Gestionnaire": "JFR",
+        "Distributeur": "SEM DENTAL",
+        "Adresse": "19240 Allassac",
+        "Zone": "03 - 63 - 15 - 43",
+        "Responsable": "Ludovic Larivière",
+        "mail": "ludovic.lariviere@cimedentaire.fr",
+        "Téléphone": "04 73 91 26 72",
+        "Journée découverte": "Programmée",
+        "Date": "11-Apr-24",
+        "lieu": "Pont du Château",
+        "Dentiste référent?": "David Potel"
     }
 ]
