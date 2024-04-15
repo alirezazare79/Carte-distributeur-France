@@ -56,19 +56,17 @@ function onEachFeature(distributors, zoneMap) {
         const departmentCode = feature.properties.code.padStart(2, '0');
         const distributorsInZone = zoneMap.get(departmentCode);
 
-        // Configure popups and styles
         if (distributorsInZone) {
-            let popupContent = '';
+            let popupContent = '<b>Distributors:</b><br>';
             distributorsInZone.forEach(d => {
                 popupContent += `<b>${d.Distributeur}</b><br>` +
                                 `Address: ${d.Adresse}<br>` +
                                 `Responsible: ${d.Responsable}<br>` +
-                                `Email: ${d.mail}<br>` +
+                                `Email: <a href="mailto:${d.mail}">${d.mail}</a><br>` +
                                 `Phone: ${d.Téléphone}<br><br>`;
             });
             layer.bindPopup(popupContent);
 
-            // Event listeners for mouseover and mouseout
             layer.on({
                 mouseover: function(e) {
                     var layer = e.target;
