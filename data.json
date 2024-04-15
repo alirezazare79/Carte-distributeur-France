@@ -79,6 +79,19 @@
     },
     {
         "Gestionnaire": "JFR",
+        "Distributeur": "SDM Online",
+        "Adresse": "69140 Rillieux la Pape",
+        "Zone": "01 - 07 - 26 - 38 - 69 - 71",
+        "Responsable": "Stella Candelier",
+        "mail": "s.candelier@dentallproject.com",
+        "Téléphone": "06 08 40 67 55",
+        "Journée découverte": "Programmée",
+        "Date": "12-Sep-24",
+        "lieu": "Rillieux la Pape",
+        "Dentiste référent?": "David Potel"
+    },
+    {
+        "Gestionnaire": "JFR",
         "Distributeur": "DSR SARL",
         "Adresse": "12510 Olemps",
         "Zone": "12 - 46 - 48 ",
